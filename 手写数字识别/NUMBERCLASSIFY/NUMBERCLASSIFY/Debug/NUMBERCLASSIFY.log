@@ -1,0 +1,9 @@
+﻿  源.cpp
+e:\projects\visualstudioprojects\手写数字识别\numberclassify\numberclassify\源.cpp(40): warning C4101: “i”: 未引用的局部变量
+e:\projects\visualstudioprojects\手写数字识别\numberclassify\numberclassify\源.cpp(80): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+e:\projects\visualstudioprojects\手写数字识别\numberclassify\numberclassify\源.cpp(82): warning C4101: “k”: 未引用的局部变量
+e:\projects\visualstudioprojects\手写数字识别\numberclassify\numberclassify\源.cpp(104): warning C4101: “j”: 未引用的局部变量
+e:\projects\visualstudioprojects\手写数字识别\numberclassify\numberclassify\源.cpp(103): warning C4101: “i”: 未引用的局部变量
+e:\projects\visualstudioprojects\手写数字识别\numberclassify\numberclassify\源.cpp(155): warning C4326: “main”的返回类型应为“int”而非“void”
+e:\projects\visualstudioprojects\手写数字识别\numberclassify\numberclassify\源.cpp(219): warning C4101: “m”: 未引用的局部变量
+  NUMBERCLASSIFY.vcxproj -> E:\projects\VisualStudioProjects\手写数字识别\NUMBERCLASSIFY\Debug\NUMBERCLASSIFY.exe

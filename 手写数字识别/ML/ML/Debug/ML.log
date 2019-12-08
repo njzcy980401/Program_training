@@ -1,0 +1,9 @@
+﻿  源.cpp
+e:\projects\visualstudioprojects\手写数字识别\ml\ml\源.cpp(44): warning C4101: “i”: 未引用的局部变量
+e:\projects\visualstudioprojects\手写数字识别\ml\ml\源.cpp(76): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+e:\projects\visualstudioprojects\手写数字识别\ml\ml\源.cpp(78): warning C4101: “k”: 未引用的局部变量
+e:\projects\visualstudioprojects\手写数字识别\ml\ml\源.cpp(100): warning C4101: “j”: 未引用的局部变量
+e:\projects\visualstudioprojects\手写数字识别\ml\ml\源.cpp(99): warning C4101: “i”: 未引用的局部变量
+e:\projects\visualstudioprojects\手写数字识别\ml\ml\源.cpp(313): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+e:\projects\visualstudioprojects\手写数字识别\ml\ml\源.cpp(329): warning C4326: “main”的返回类型应为“int”而非“void”
+  ML.vcxproj -> E:\projects\VisualStudioProjects\手写数字识别\ML\Debug\ML.exe
