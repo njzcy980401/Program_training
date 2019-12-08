@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+
+    package="com.example.asus.mdzs">
+
+    <application
+        android:name=".MainApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MainActivity"
+            android:launchMode="singleTask">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".zzry" />
+        <activity android:name=".Chapter1" />
+        <activity android:name=".MyList" />
+        <activity android:name=".Chapter00" />
+        <activity android:name=".Chapter01" />
+        <activity android:name=".Chapter02" />
+        <activity android:name=".Chapter03" />
+        <activity android:name=".Chapter04" />
+        <activity android:name=".Chapter05" />
+        <activity android:name=".Chapter06" />
+        <activity android:name=".ChpaterStart00" />
+        <activity android:name=".Chapter07" />
+        <activity android:name=".Chapter08" />
+        <activity android:name=".Chapter09" />
+        <activity android:name=".Chapter10" />
+        <activity android:name=".Chapter1Evening" />
+        <activity android:name=".Chapter11" />
+        <activity android:name=".Chapter12" />
+        <activity android:name=".ChooseChapter" />
+        <activity android:name=".Chapter13" />
+        <activity android:name=".Chapter14" />
+        <activity android:name=".Chapter15" />
+        <activity android:name=".Chapter16" />
+        <activity android:name=".Chapter17" />
+        <activity android:name=".Chapter18" />
+        <activity android:name=".Chapter19" />
+        <activity android:name=".Chapter2" />
+        <activity android:name=".Chapter200" />
+        <activity android:name=".Chapter201" />
+        <activity android:name=".Chapter202" />
+        <activity android:name=".Chapter203" />
+        <activity android:name=".Chapter204" />
+        <activity android:name=".Chapter205" />
+        <activity android:name=".Chapter206" />
+        <activity android:name=".Chapter207" />
+        <activity android:name=".Chapter208" />
+        <activity android:name=".Chapter209" />
+        <activity android:name=".Chapter210" />
+        <activity android:name=".Chapter211" />
+        <activity android:name=".Chapter212" />
+        <activity android:name=".Chapter213" />
+        <activity android:name=".Chapter214" />
+        <activity android:name=".Chapter215" />
+        <activity android:name=".Chapter216" />
+        <activity android:name=".Chapter217" />
+        <activity android:name=".Chapter218" />
+        <activity android:name=".Chapter219" />
+        <activity android:name=".Chapter220" />
+        <activity android:name=".Chapter221" />
+        <activity android:name=".Chapter222" />
+        <activity android:name=".Chapter223" />
+        <activity android:name=".Chapter224" />
+        <activity android:name=".Chapter225" />
+        <activity android:name=".Chapter226" />
+        <activity android:name=".Chapter227" />
+        <activity android:name=".Chapter228" />
+        <activity android:name=".Chapter229" />
+        <activity android:name=".Chapter230" />
+        <activity android:name=".Chapter231" />
+        <activity android:name=".Chapter232" />
+        <activity android:name=".Chapter233" />
+        <activity android:name=".Chapter234" />
+        <activity android:name=".Chapter235" />
+        <activity android:name=".Chapter236" />
+        <activity android:name=".Chapter237" />
+        <activity android:name=".Chapter238" />
+        <activity android:name=".Chapter239" />
+        <activity android:name=".Bgm_Set" />
+        <activity android:name=".Video" />
+        <activity android:name=".Chapter240" />
+        <activity android:name=".Chapter241" />
+        <activity android:name=".Chapter242" />
+        <activity android:name=".Chapter243" />
+        <activity android:name=".Chapter244" />
+        <activity android:name=".Chapter245" />
+        <activity android:name=".ChapterStart02" />
+        <activity android:name=".Video_view"
+            android:screenOrientation="landscape"></activity>
+    </application>
+
+</manifest>
